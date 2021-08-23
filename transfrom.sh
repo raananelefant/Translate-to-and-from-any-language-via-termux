@@ -1,2 +1,2 @@
-termux-clipboard-get|trans -b -speak
-termux-clipboard-get|trans -b
+termux-clipboard-get|trans -b -speak #Recites original copied text
+termux-clipboard-get|trans -b #Translates text
