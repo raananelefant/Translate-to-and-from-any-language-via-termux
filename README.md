@@ -1,4 +1,4 @@
-# translate-from-any-language-via-termux
+# Translate-from-any-language-via-termux
 
 Prerequisites:
 
